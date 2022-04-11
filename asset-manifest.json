@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jvictorcode.github.io/csb-kc1h3o/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://jvictorcode.github.io/csb-kc1h3o/static/js/main.a6291ebd.chunk.js",
+    "main.js.map": "https://jvictorcode.github.io/csb-kc1h3o/static/js/main.a6291ebd.chunk.js.map",
+    "runtime-main.js": "https://jvictorcode.github.io/csb-kc1h3o/static/js/runtime-main.36cbc386.js",
+    "runtime-main.js.map": "https://jvictorcode.github.io/csb-kc1h3o/static/js/runtime-main.36cbc386.js.map",
+    "static/js/2.b21dc211.chunk.js": "https://jvictorcode.github.io/csb-kc1h3o/static/js/2.b21dc211.chunk.js",
+    "static/js/2.b21dc211.chunk.js.map": "https://jvictorcode.github.io/csb-kc1h3o/static/js/2.b21dc211.chunk.js.map",
+    "index.html": "https://jvictorcode.github.io/csb-kc1h3o/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://jvictorcode.github.io/csb-kc1h3o/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b21dc211.chunk.js.LICENSE.txt": "https://jvictorcode.github.io/csb-kc1h3o/static/js/2.b21dc211.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36cbc386.js",
+    "static/js/2.b21dc211.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a6291ebd.chunk.js"
+  ]
+}
